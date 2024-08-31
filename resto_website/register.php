@@ -60,7 +60,7 @@ try{
             <div class="form-check">
                 <label class="form-check-label" for="flexCheckChecked"> Register Here</label>
             </div>
-            <button type="submit" class="btn btn-primary" name="register">Login</button>
+            <button type="submit" class="btn btn-primary" name="register">Register</button>
         </form>
     </div>
     </div>
